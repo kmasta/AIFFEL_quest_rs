@@ -10,6 +10,9 @@
 
     ![image](https://github.com/user-attachments/assets/d9342d39-bd00-4f35-8900-e51be2038c7c)
     ![image](https://github.com/user-attachments/assets/bda58f76-4ba4-4abb-9c35-32bc95d5f35e)
+  ![image](https://github.com/user-attachments/assets/6661ee48-064d-4a8e-87a4-10c41105c02f)
+    ![image](https://github.com/user-attachments/assets/8975186d-96bd-4527-9a6c-d70070e51db5)
+
 
 
 - [ o ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -32,9 +35,10 @@
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
      
-    시각화하는 부분에 있어 더욱 다양한 시도를 하였다. 위에 결과가 복잡하다고 생각되는 부분은 각주로만 남겨 두어 보는 사람도 고려하였다.
+    알맞은 피쳐를 선택하기 위해 항목별 시각화를 시도했다. 피쳐를 잘 고르는 건 학습에 중요하기 때문에 필요한 과정이라고 생각하였다.
   
-  ![image](https://github.com/user-attachments/assets/88e54c60-cd6b-4a55-99d2-11f0f28590d3)
+    ![image](https://github.com/user-attachments/assets/839566fe-d6a8-42c6-a87a-a508d6289f3f)
+
 
         
 - [ x ]  **4. 회고를 잘 작성했나요?**
